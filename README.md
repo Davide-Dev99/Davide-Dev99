@@ -15,5 +15,5 @@ Benvenuti nel mio profilo GitHub! Sono uno sviluppatore backend con esperienza p
 
 Questo è un nuovo profilo GitHub quindi le statistiche sono per ora misire
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=davideamato&show_icons=true&count_private=true&hide_title=true&hide=prs)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Davide-Dev99&show_icons=true&count_private=true&hide_title=true&hide=prs)
 
